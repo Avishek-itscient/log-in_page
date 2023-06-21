@@ -21,4 +21,4 @@ To run this login page locally, you'll need the following:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/login-page-php.git
+   git clone https://github.com/Avishek-itscient/log-in_page
